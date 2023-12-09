@@ -1,7 +1,10 @@
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-between p-24">
-      THIS IS ORTHOLINE.MK TEST 2
+    <main className="flex flex-col min-h-screen items-center justify-center p-24">
+      <div className="text-center">
+        <h1 className="pb-4">WEBSITE UNDER CONSTRUCTION</h1>
+        <h1>ORTHOLINE.MK</h1>
+      </div>
     </main>
   );
 }
